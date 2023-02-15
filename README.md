@@ -2,7 +2,7 @@
 Fullstack Web3 JS/TS/Solidity engineer. 🤝
 
 ### 🌱 my skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=solidity,ts,js,nodejs,react,nextjs,mongodb,tailwind,vite,git,github,ipfs,vscode" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&i=solidity,ts,js,nodejs,react,nextjs,mongodb,tailwind,vite,git,github,ipfs,vscode" />
 
 ## 📨 Contact me.
 
